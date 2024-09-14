@@ -1,0 +1,20 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+body{
+    background-color: #181818;
+}
+.navbar{
+    background-color: #100f0f;
+}
+.search:hover{
+    border: 2px solid #598ab8;
+    transition: 100ms;
+}
+.button{
+    background-color: #34bad4;
+    
+}
+.input{
+    background-color: #100f0f;
+}
