@@ -1,20 +1,26 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
-body{
+
+body {
     background-color: #181818;
+    color: white;
 }
-.navbar{
+
+.navbar {
     background-color: #100f0f;
 }
-.search:hover{
+
+.search:hover {
     border: 2px solid #598ab8;
     transition: 100ms;
 }
-.button{
+
+.button {
     background-color: #34bad4;
-    
+
 }
-.input{
+
+.input {
     background-color: #100f0f;
 }
